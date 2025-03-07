@@ -1,4 +1,6 @@
 # 𝙁𝙞𝙧𝙚𝘽𝙤𝙭
+[Download FireBox](https://github.com/Perverted-Nobleman/FireBox/releases)
+
 Protokol Proxy Yang Didukung :
 1. SOCKS (4/4a/5)
 2. HTTP(S)
@@ -14,4 +16,6 @@ Protokol Proxy Yang Didukung :
 12. Mieru (mieru-plugin)
 13. TUIC
 
-Silakan buka di sini untuk mengunduh plugin untuk dukungan proxy penuh
+Silakan mendownload plugin dibawah untuk dukungan proxy penuh
+- [Hysteria](https://www.mediafire.com/file/ta2gb2w6zff00ab/Hysteria+v1.3.5-1.apk/file)
+- [Naiveproxy](https://www.mediafire.com/file/nm30d4heq70t0wi/Naiveproxy+v133.0.6943.49-1.apk/file)
