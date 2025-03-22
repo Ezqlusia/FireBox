@@ -19,3 +19,7 @@ Protokol Proxy Yang Didukung :
 Silakan mendownload plugin dibawah untuk dukungan proxy penuh
 - [Hysteria](https://www.mediafire.com/file/ta2gb2w6zff00ab/Hysteria+v1.3.5-1.apk/file)
 - [NaiveProxy](https://www.mediafire.com/file/nm30d4heq70t0wi/Naiveproxy+v133.0.6943.49-1.apk/file)
+
+
+Klik link dibawah ini untuk melihat beberapa aplikasi yang saya modifikasi
+[APP Extended](https://github.com/Perverted-Nobleman/Extended)
