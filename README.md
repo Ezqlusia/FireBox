@@ -1,5 +1,5 @@
 # 𝙁𝙞𝙧𝙚𝘽𝙤𝙭
-[Download FireBox](https://github.com/Perverted-Nobleman/FireBox/releases)
+[Download FireBox](https://github.com/Ezqlusia/FireBox/releases)
 
 Protokol Proxy Yang Didukung :
 - SOCKS (4/4a/5)
@@ -22,4 +22,4 @@ Silakan mendownload plugin dibawah untuk dukungan proxy penuh
 
 
 Klik link dibawah ini untuk melihat beberapa aplikasi yang saya modifikasi
-[APP Extended](https://github.com/Perverted-Nobleman/Extended)
+[APP Extended](https://github.com/Ezqlusia/Extended)
